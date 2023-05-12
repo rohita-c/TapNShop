@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Alef';
+    src: url('Alef/Alef-Bold.eot');
+    src: url('Alef/Alef-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Alef/Alef-Bold.woff2') format('woff2'),
+        url('Alef/Alef-Bold.woff') format('woff'),
+        url('Alef/Alef-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

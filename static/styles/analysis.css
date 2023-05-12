@@ -1,0 +1,87 @@
+
+@font-face {
+    font-family: "TableData";
+    src: url("../ABeeZee/ABeeZee-Regular.ttf") format("truetype");
+}
+
+
+@font-face {
+    font-family: "CustomHeading";
+    src: url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.woff") format("woff"),
+    url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.woff2") format("woff2"),
+    url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.eot?") format("eot"),
+    url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.ttf") format("truetype");
+    }
+
+
+body {
+    margin: 0.5% !important;
+}   
+
+
+h1 {
+    font-family: "CustomHeading";
+    padding-top: 10px;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(16, 3, 157);
+}
+
+hr {
+    color: white;
+    background-color: white;
+    height: 0.25%;
+}
+.container {
+    background-color: rgb(135, 206, 235);
+    border-radius: 8px;
+    margin-top: 0.5%;
+}
+
+iframe {
+    box-shadow: 5px 5px 10px 2px rgb(8, 1, 85);
+}
+
+.p1iframe {
+    border-radius: 20px;
+    height: 50%;
+    width: 45%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    margin-right: 1.5%;
+}
+
+.p2iframe {
+    border-radius: 20px;
+    height: 50%;
+    width: 45%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-right: 2%;
+    margin-left: 1.5%;
+    float: right;
+}
+
+.p3iframe {
+    border-radius: 20px;
+    height: 50%;
+    width: 45%;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: 1.5%;
+}
+
+.p4iframe {
+    border-radius: 20px;
+    height: 50%;
+    width: 45%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    margin-left: 1.5%;
+    float: right;
+}

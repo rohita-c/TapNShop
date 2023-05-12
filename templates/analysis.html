@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Analysis</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="{{ url_for('static', path='/styles/analysis.css') }}" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Welcome, Gazebo</h1>
+            <hr width="97%">
+            <iframe type="text/html" src="/getPlot/weekly_sales" class="p1iframe" frameBorder="0"></iframe>
+            <iframe type="text/html" src="/getPlot/pastmonth_revenue" class="p2iframe" frameBorder="0"></iframe>
+            <iframe type="text/html" src="/getPlot/salesby_paymeth" class="p3iframe" frameBorder="0"></iframe>
+            <iframe type="text/html" src="/getPlot/which_prod_howmuch" class="p4iframe" frameBorder="0"></iframe>
+        </div>
+    </body>
+</html>

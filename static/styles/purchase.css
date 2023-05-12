@@ -1,0 +1,108 @@
+@font-face {
+    font-family: "CustomHeading";
+    src: url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.woff") format("woff"),
+    url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.woff2") format("woff2"),
+    url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.eot?") format("eot"),
+    url("../Font-FingerPaint/Font-FingerPaint/FingerPaint-Regular.ttf") format("truetype");
+    }
+
+@font-face {
+    font-family: "TableHeading";
+    src: url("../Alef/Alef/Alef-Bold.eot?") format("eot"),
+    url("../Alef/Alef/Alef-Bold.ttf") format("truetype"),
+    url("../Alef/Alef/Alef-Bold.woff") format("woff"),
+    url("../Alef/Alef/Alef-Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "TableData";
+    src: url("../ABeeZee/ABeeZee-Regular.ttf") format("truetype");
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+form {
+    width: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.item_opt {
+    font-family: "TableData";
+    font-size: large;
+}
+
+label {
+
+    font-family: "TableData";
+    font-weight: bold;
+}
+
+input {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+span {
+    padding: 2px;
+}
+
+
+.items_container {
+    width: 100%;
+}
+
+.dropdown_labels {
+    word-wrap: break-word;
+    display: inline-block;
+    word-break: break-all;
+}
+
+.cart_button {
+    width: 20%;
+    margin-right: 40%;
+    margin-left: 40%;
+    background-color: rgb(0, 96, 213);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart_button:hover {
+    background-color: rgb(95, 167, 255);
+    cursor: pointer;
+}
+
+.submitbutton {
+    font-family: "TableData";
+    font-size: large;
+    width: 20%;
+    margin-right: 40%;
+    margin-left: 40%;
+    background-color: rgb(0, 96, 213);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.submitbutton:hover {
+    background-color: rgb(95, 167, 255);
+    cursor: pointer;
+}
+.methods {
+    width: 30%;
+    font-family: "TableData";
+    font-size: medium;
+}

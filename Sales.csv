@@ -1,0 +1,671 @@
+ID,Customer Name,Item,Cost,Purchase Date,Payment Method
+20BRS1139,Giridhar S,Fudge Brownie,70,2023-04-01,Paytm
+20BAI1105,Hetal Atwal,Chicken Burger,80,2023-04-01,GPay
+20BCE1728,Sanjyot Chatarkar,Tea,15,2023-04-01,GPay
+20BCE1418,Kiranraaj Shanmugasekar,Hot Chocolate,40,2023-04-01,Paytm
+20BCE1564,Melvin Mathew Johncy,Veg Patty Wrap,80,2023-04-01,Cash
+20BRS1022,Nitish Menon,Tea,15,2023-04-01,Cash
+20BCE1191,Akash Raj St,Coffee,15,2023-04-01,Paytm
+20BCE1084,Rijul Kharbanda,Egg Puff,25,2023-04-01,Paytm
+20BCE1595,Nandita Mahesh ,Veg Pizza ,70,2023-04-01,GPay
+20BAI1067,Thamizhmaran N,Samosa,20,2023-04-01,Cash
+20BPS1039,Abheek Rajeev,Paneer Wrap,80,2023-04-01,GPay
+20BCE1025,Abhishek N N,French Fries,50,2023-04-01,Cash
+20BAI1243,Fiza ,Chicken Sausage Sandwich,80,2023-04-01,Cash
+20BAI1213,Rohita Chakraborty,Veg Patty,70,2023-04-01,GPay
+20BCE1754,Jasleen Kaur  Bali,Egg Puff,25,2023-04-01,Cash
+20BRS1095,Shivam Akhouri,Oreo Cookie Milkshake,60,2023-04-01,GPay
+20BCE1786,Kiran Manikandhan,French Fries,50,2023-04-01,Paytm
+20BCE1233,Gourav Jena,Chicken Patty Sandwich,80,2023-04-01,GPay
+20BPS1149,Pradhyuman Arora,Bread Omelette,50,2023-04-01,GPay
+20BCE1534,Anirudha Dalmia,Paneer Wrap,80,2023-04-01,GPay
+20BCE1731 ,Arnav Singh ,Tea,15,2023-04-01,Paytm
+20BCE1865,Ahilan A ,Egg Wrap,70,2023-04-01,Paytm
+20BCE1675,Lokeshwaran R,Hot Chocolate,40,2023-04-01,Cash
+20BAI1159,Nischit K R,Hot Chocolate,40,2023-04-01,Paytm
+20BCE1487,Harshitha R,Tea,15,2023-04-01,GPay
+20BCE1507,Aenish Pattjoshi,Grape Juice,50,2023-04-01,GPay
+20BPS1048,Gayathri G,Chicken Sausage Sandwich,80,2023-04-01,GPay
+20BCE1533,Vansh Shan,Veg Pizza ,70,2023-04-01,Cash
+20BCE1593,Susan Ray ,Chicken Nuggets,70,2023-04-01,GPay
+20BCE1376,Shreejith Sg ,Chocolate Milkshake,60,2023-04-01,Cash
+20BCE1317,G.S.Jyothssena,Paneer Cheese Sandwich,60,2023-04-01,GPay
+20BCE1586,Achyut G,Veg Pizza ,70,2023-04-01,Paytm
+20BCE1413,Ravipati Sruthi Krishna ,Veg Momos,60,2023-04-01,GPay
+20BCE1701,Priyanshu Kapoor,Veg Pasta,80,2023-04-01,Paytm
+20BRS1205,Samik Saraswat,Veg Puff,20,2023-04-01,Cash
+20BAI1003,Raagulbharatwaj K ,Hot Chocolate,40,2023-04-01,Cash
+20BCE1015,Arjun Vishanth ,Chilli Cheese Sandwich,50,2023-04-01,Paytm
+20BCE1606,Vaddi Anuraag,Paneer Wrap,80,2023-04-01,Cash
+20BPS1125,Kanishka Ghosh,Chicken Momos ,80,2023-04-01,GPay
+20BAI1108,Aaryan Mehta,Chicken Nuggets,70,2023-04-01,GPay
+20BRS1126,Pulak Jain ,Chicken Momos ,80,2023-04-01,Paytm
+20BCE1123,Maddu Ganesh,Banana Juice,50,2023-04-01,GPay
+20BRS1060,Nirupama Rathinavel,Grape Juice,50,2023-04-01,GPay
+20BRS1110,Neha Ragesh Nambiar,Egg Wrap,70,2023-04-01,Cash
+20BCE1143,Advait Deochakke,Paneer Sub,90,2023-04-01,Paytm
+20BRS1083,Swaathy K,Banana Juice,50,2023-04-01,GPay
+20BCE1035,R.Balakrishnan,Vanilla Milkshake,50,2023-04-01,GPay
+20BCE1428,Spandan Ghosh,Grape Juice,50,2023-04-01,Cash
+20BCE1983,Mehali Samanta ,Sausage Wrap,90,2023-04-01,Paytm
+20BAI1312 ,Janice Ziona Abraham,French Fries,50,2023-04-01,GPay
+20BAI1032,Manasvi Maheshwari,Chicken Sub,90,2023-04-01,Paytm
+20BPS1092,Gunda Aswanth Kumar,Donut,50,2023-04-01,Paytm
+20BCE1429,Debduhita Banerjee,Veg Patty,70,2023-04-01,Paytm
+20BEE1123,P.S.Abirami,Chicken Momos ,80,2023-04-01,Paytm
+20BCE1553 ,Mallapalli Kusumasai,Vanilla Milkshake,50,2023-04-01,Paytm
+20BRS1025,Varun Patrikar,Veg Momos,60,2023-04-01,Cash
+20BRS1130,Om Anil Kajave,Mango Milkshake,60,2023-04-01,Cash
+20BCE1674,Mayank Yadav,Samosa,20,2023-04-01,GPay
+20BCE1874,Bhavishya Kumar,Chicken Patty Sandwich,80,2023-04-01,Cash
+20BCE1406,Shradhdha Gohil ,Grape Juice,50,2023-04-01,Cash
+20BAI1128 ,Malay Baldha ,Chilli Cheese Sandwich,50,2023-04-01,GPay
+20BCE1834,Ananya Singh,Chicken Burger,80,2023-04-01,GPay
+20BCE1424,Rahul Sunov,Fudge Brownie,70,2023-04-01,GPay
+20BCE1886,Harsh Chauhan,Sweet Lime Juice,50,2023-04-01,GPay
+20BRS1090 ,Yukta Bhatti ,Veg Burger,70,2023-04-01,Cash
+20BCE1102,Satyam Sethi,Sausage Wrap,90,2023-04-01,GPay
+20BCE1333,Aryan Purohit,Paneer Momos,70,2023-04-01,Cash
+20BCE1829,Akash Raj Behera,Samosa,20,2023-04-01,GPay
+20BRS1119,Abraham Kuriakose,Banana Bread,30,2023-04-01,Cash
+20BAI1135,Nipun Rautela,Chicken Momos ,80,2023-04-01,Cash
+20BAI1065,Rajalakshmi S,Banana Bread,30,2023-04-01,Paytm
+20BCE1723,Dinesh Ragav,Death By Chocolate,80,2023-04-01,Paytm
+20BCE1676,Sharan N,Chocolate Milkshake,60,2023-04-01,Cash
+20BAI1231,Adhithya Aravind,Chicken Sausage Sandwich,80,2023-04-01,Paytm
+20BAI1152,Anosh Damania,Chocolate Swiss Roll,50,2023-04-01,Cash
+20BEE1135,M Erin Churchill,Strawberry Milkshake,60,2023-04-01,GPay
+20BAI1055,Rakesh Kumar K S,Sausage Wrap,90,2023-04-01,GPay
+20BCE1125,Priyanshu Singh,Chicken Pizza ,90,2023-04-01,Cash
+20BCE1472,Dave Vishv Divyang,Fudge Brownie,70,2023-04-01,Paytm
+20BCE1464,Sreelakshmi Rajendran,Veg Cheese,50,2023-04-01,Cash
+20BAI1050,Sujay Doshi,Chicken Burger,80,2023-04-01,GPay
+20BPS1142 ,Dipansu Rout ,Veg Burger,70,2023-04-01,Cash
+20BCE1117,Mehta Jeel Amitbhai,Tea,15,2023-04-01,GPay
+20BCE1879,S. Rohit Swaminathan,Chocolate Swiss Roll,50,2023-04-01,GPay
+20BPS1146,S.V. Sai Akhil,Chicken Sub,90,2023-04-01,GPay
+20BRS1109,Ramya T,Watermelon Juice,40,2023-04-01,GPay
+20BCE1426,Sidharth Sudheer,Veg Pizza ,70,2023-04-01,GPay
+20BPS1021,Aditi Satapathy,Vanilla Milkshake,50,2023-04-01,Cash
+20BCE1571,Vaishnavi Sreedhar Jawalkar ,Samosa,20,2023-04-01,Cash
+20BRS1028,Kiran Prasath D K,Veg Cheese,50,2023-04-01,Paytm
+20BRS1197,Harsh Ashok Valambe,Death By Chocolate,80,2023-04-01,Paytm
+20BCE1671,Pranjal Tiwari,Paneer Sub,90,2023-04-01,GPay
+20BCE1154,Indraneel Parab,Sausage Wrap,90,2023-04-01,GPay
+20BCE1302,Hemang Ahuja ,Chicken Pasta,90,2023-04-01,Paytm
+20BCE1738,Anirudha Agarwal,Chocolate Milkshake,60,2023-04-01,Paytm
+20BCE1570,Amrutha Annadurai ,Chicken Sausage Sandwich,80,2023-04-01,Paytm
+20BCE1342,Rashika Agarwal,French Fries,50,2023-04-01,Cash
+20BCE1974,Soham Mitra,Veg Cheese,50,2023-04-01,Paytm
+20BAI1226,Alan K Alex,Veg Patty Wrap,80,2023-04-01,Paytm
+20BCE1437,Abrar Ahamed,Veg Pizza ,70,2023-04-01,Paytm
+20BCE1821,Ishita Sumeer Jalla,Banana Bread,30,2023-04-01,GPay
+20BCE1830,Aayush Poddar,Oreo Cookie Milkshake,60,2023-04-01,Cash
+20BAI1139,Sanjay Saju Jacob,Samosa,20,2023-04-01,Paytm
+20BPS1080,Mohan Arvind S P,Veg Pizza ,70,2023-04-01,Cash
+20BCE1783,Rishank Sharma,Chocolate Truffle,50,2023-04-01,Cash
+20BCE1358,Sudip Roy,Veg Cheese,50,2023-04-01,Paytm
+20BCE1294,Arnab Mondal,Veg Puff,20,2023-04-01,Paytm
+20BCE1884,Nayan Khemka ,Veg Pasta,80,2023-04-01,GPay
+20BCE1620,Rohit Kumar,Chicken Patty Sandwich,80,2023-04-01,GPay
+20BCE1945,Jesmine Akhter,Veg Noodles,70,2023-04-01,GPay
+20BCE1668,Shishir Shrivastava,Bread Omelette,50,2023-04-01,Cash
+20BCE1255,Sri Priyadharsan K,Veg Patty Wrap,80,2023-04-01,Cash
+20BCE1815,M Rokithkumar,Chilli Cheese Sandwich,50,2023-04-01,Paytm
+20BRS1009,Ranjani T,Oreo Cookie Milkshake,60,2023-04-01,GPay
+20BCE1816,Shilpan Pawan Singh,Butterscotch Milkshake,60,2023-04-01,Paytm
+20BCE1973,Susindhar A V,Veg Patty,70,2023-04-01,Paytm
+20BRS1262,Ashutosh Ardu,Paneer Wrap,80,2023-04-01,Cash
+20BCE1071,S Surya,Death By Chocolate,80,2023-04-01,Cash
+20BCE1390,Lakshan V,Butterscotch Milkshake,60,2023-04-01,GPay
+20BPS1132,Vyshnavi Sunil Kumar,Paneer Momos,70,2023-04-01,Paytm
+20BAI1312,Janiceziona Abraham,Strawberry Milkshake,60,2023-04-01,Paytm
+20BRS1118,Disha Raina,Chicken Patty Wrap,90,2023-04-01,GPay
+20BRS1168,Vishal Kumar Mahatha,Chicken Momos ,80,2023-04-01,GPay
+20BEE1149,Vinotha Premkumar ,Egg Puff,25,2023-04-01,Cash
+20BAI1022,Ayan Mukherjee,Veg Pizza ,70,2023-04-01,Paytm
+20BCE1159,Himanshu Baid,Tea,15,2023-04-01,Paytm
+20BCE1384,Ritik Singh,Veg Patty Wrap,80,2023-04-01,GPay
+20BRS1270,Adavelli Rohan Reddy,Sweet Lime Juice,50,2023-04-01,GPay
+20BCE1737,Raksha Aruloli,Chicken Pizza ,90,2023-04-01,Cash
+20BPS1089,Kantubhukta Janardhan ,Butterscotch Milkshake,60,2023-04-01,Cash
+20BCE1350 ,Saanjhi Saraogi ,Chicken Patty Sandwich,80,2023-04-01,GPay
+20BCE1325,R. Nagha Akshayaa,Chocolate Swiss Roll,50,2023-04-01,Paytm
+20BPS1163,Adiya Chopra,Veg Cheese,50,2023-04-01,GPay
+20BCE1928,Rentala Naga Sai Ganesh ,Oreo Cookie Milkshake,60,2023-04-01,GPay
+20BCE1802,Pragnya Prakash Panda,Chocolate Truffle,50,2023-04-01,Paytm
+20BCE1337 ,Athul Shanker ,Chocolate Swiss Roll,50,2023-04-01,GPay
+20BCE1053,Ritwik Singh,Mango Milkshake,60,2023-04-01,GPay
+20BCE1054,Darshini. R,Veg Cheese,50,2023-04-01,Paytm
+20BCE1105,Kesav Santhosh,Veg Patty Wrap,80,2023-04-01,Cash
+20BRS1245,Rishikesh Raj Nair,Coffee,15,2023-04-01,Paytm
+20BPS1064,Ajith Suresh ,Chocolate Truffle,50,2023-04-01,GPay
+20BCE1560,Kunal Gupta,Donut,50,2023-04-01,GPay
+20BCE1618,Govind Agarwal,Banana Bread,30,2023-04-01,Paytm
+20BCE1804,Ashwin Sivasankar V,Sweet Lime Juice,50,2023-04-01,Cash
+20BCE1478,Shrikar Jayaraman,Paneer Momos,70,2023-04-01,Paytm
+20BAI1202,Ambar Kumar,Samosa,20,2023-04-01,Paytm
+20BCE1339,Pritikaa S K,Vanilla Milkshake,50,2023-04-01,Cash
+20BAI1280,Sanjay K S,Cold Coffee,60,2023-04-01,GPay
+20BCE1756,Mahi Maanas Reddy,Tea,15,2023-04-01,Cash
+20BCE1504,Soumik Kabiraj,Brownie,60,2023-04-01,GPay
+20BCE1137,Karthic Kumaran S ,Samosa,20,2023-04-01,Cash
+20BPS1056,Jahnavi Menon,Chicken Pasta,90,2023-04-01,GPay
+20BPS1164,Rigved Telang,Paneer Cheese Sandwich,60,2023-04-01,GPay
+20BCE1170,Shyam Sankalp Pattnaik ,Samosa,20,2023-04-01,GPay
+20BCE1240,Vemasani Varshini ,Choco Lava Cake,50,2023-04-01,GPay
+20BAI1010,Niranjan Kumar T A,Coffee,15,2023-04-01,GPay
+20BPS1060,Shantanu,Strawberry Milkshake,60,2023-04-01,Paytm
+20BPS1030,Aditya Kumar Gupta,Chicken Pasta,90,2023-04-01,Paytm
+20BCE1610,Athul Robert R B,Chicken Burger,80,2023-04-01,Cash
+20BAI1245,Rohan Alroy.B,Veg Pasta,80,2023-04-01,Paytm
+20BCE1164,Shrishti Singh ,Banana Bread,30,2023-04-01,Paytm
+20BCE1251,Rajat Mishra,Veg Puff,20,2023-04-01,Cash
+20BCE1609,Shreya S Nair,Sweet Lime Juice,50,2023-04-01,GPay
+20BCE1828,Preeti Pallavi,Chicken Pasta,90,2023-04-01,GPay
+20BAI1277,Sharen H,Paneer Cheese Sandwich,60,2023-04-01,Paytm
+20BRS1145,Rose Jose,Brownie,60,2023-04-01,Cash
+20BPS1054,Thode Sai Prajwal,Strawberry Milkshake,60,2023-04-01,GPay
+20BCE1921,Kritika Agrawal,Death By Chocolate,80,2023-04-01,Cash
+20BCE1500,Aayush Shukla,Veg Momos,60,2023-04-01,GPay
+20BCE1014,Vivek Singh,Banana Juice,50,2023-04-01,Cash
+20BAI1272,Jayasree M,Veg Puff,20,2023-04-01,Paytm
+20BRS1215,Shruthi.S,Chicken Sub,90,2023-04-01,GPay
+20BAI1057,Sankalp Hegde,Veg Momos,60,2023-04-01,GPay
+20BCE1569,Dhruviben Ajitsinh Prankada,Choco Lava Cake,50,2023-04-01,Cash
+20BCE1296,Yerramalli Sai Sreekar,Mango Milkshake,60,2023-04-01,Cash
+20BAI1319,Devanshu Khemka ,Pomegranate Juice,60,2023-04-01,Paytm
+20BCE1532,Jinen Rathore,Chocolate Milkshake,60,2023-04-01,GPay
+20BCE1873,Pavan Kaarthik,Chocolate Truffle,50,2023-04-01,GPay
+20BCE1379,Pallav Aggarwal,Chocolate Swiss Roll,50,2023-04-01,GPay
+20BRS1057,Rishita Rai,Sweet Lime Juice,50,2023-04-01,GPay
+20BCE1188 ,Katuri Madhava Rajesh ,Tea,15,2023-04-01,Cash
+20BCE1045,Sathiyanarayan Gs,Banana Bread,30,2023-04-01,Cash
+20BCE1128,Sai Vignesh.N,Coffee,15,2023-04-01,GPay
+20BCE1202,Aditya Ahuja,Chicken Nuggets,70,2023-04-01,Cash
+20BCE1273,Prakul Vyas,Chicken Cheese Sandwich,70,2023-04-01,Paytm
+20BRS1035,Hritik Goel,Lime Juice,30,2023-04-01,GPay
+20BRS1143,N.Aishwarya ,Veg Puff,20,2023-04-01,Cash
+20BCE1677,Shyam.K,Mango Milkshake,60,2023-04-01,Paytm
+20BAI1304,T S Harshini,Banana Juice,50,2023-04-01,Paytm
+20BRS1179,Harshenee Cb,Paneer Wrap,80,2023-04-01,Paytm
+20BAI1119,Sarath Krishna Chingapurathu,Banana Bread,30,2023-04-01,Cash
+20BCE1930 ,Sreyas Rejil,Chicken Momos ,80,2023-04-01,GPay
+20BCE1653,Parth Anandshekhar Tiwari ,Watermelon Juice,40,2023-04-01,Paytm
+20BRS1107,Yash Ulhas Ambre,Hot Chocolate,40,2023-04-01,Cash
+20BCE1979 ,Gurleen Kaur Saluja ,Chicken Patty Sandwich,80,2023-04-01,Paytm
+20BCE1977,Rachel Gupta,Sweet Lime Juice,50,2023-04-01,Paytm
+20BPS1159,Divjot Singh ,Chicken Patty Sandwich,80,2023-04-01,GPay
+20BRS1102,A Rahul,Egg Wrap,70,2023-04-01,Cash
+20BCE1365,Shyam Prabu.T,Paneer Wrap,80,2023-04-01,Paytm
+20BCE1162,Aditi Anil Bodkhe,Veg Puff,20,2023-04-01,Paytm
+20BAI1131,Subhadip Nandi,Samosa,20,2023-04-01,GPay
+20BRS1216,Sourasish Pal,Chicken Noodles,90,2023-04-01,Paytm
+20BCE1814,Rochak Shrivastav,Egg Wrap,70,2023-04-01,Cash
+20BCE1318,Vinay Vittal Moolya,Veg Momos,60,2023-04-01,GPay
+20BCE1310,Harsh Gupta,Samosa,20,2023-04-01,Paytm
+20BPS1068,Akanksha Goel,Veg Patty,70,2023-04-01,Paytm
+20BRS1017,Beleswar Prasad Padhi,Sweet Lime Juice,50,2023-04-01,Cash
+20BCE1482,Prateek Mohanty ,Cold Coffee,60,2023-04-01,GPay
+20BPS1137,Kancharla Naveen Kumar,Veg Burger,70,2023-04-01,Paytm
+20BCE1415,Sanskriti Sanjay Kumar Singh,Banana Juice,50,2023-04-01,Cash
+20BCE1970 ,Battalapalli Sai Divya ,Veg Patty Wrap,80,2023-04-01,GPay
+20BCE1136,Bansuri Gupta ,Sausage Wrap,90,2023-04-01,Cash
+20BCE1573,Akshay Girish,Chilli Cheese Sandwich,50,2023-04-01,GPay
+20BRS1185,Abdul Aziz A.B,Grape Juice,50,2023-04-01,Cash
+20BCE1689,Hrithik D,Paneer Wrap,80,2023-04-01,Cash
+20BAI1192 ,Ratneshwar ,Orange Juice,50,2023-04-01,GPay
+20BAI1186,Laksha S,Bread Omelette,50,2023-04-01,GPay
+20BAI1287,Mridhula ,Egg Puff,25,2023-04-01,Cash
+20BRS1067,V.Arunachalam ,Donut,50,2023-04-01,GPay
+20BPS1069,R Saran,Pineapple Juice,50,2023-04-01,GPay
+20BCE1857,Gowtham N,Chicken Pizza ,90,2023-04-01,Cash
+20BPS1083,Prantik Dhara,Veg Noodles,70,2023-04-01,Cash
+20BCE1225,Aman Kumar Patni,Veg Cheese,50,2023-04-01,Paytm
+20BCE1789,Yash Seth,Paneer Wrap,80,2023-04-01,GPay
+20BRS1121,Rahul M,Veg Pizza ,70,2023-04-01,Paytm
+20BRS1213,Rhithik Raj K,Orange Juice,50,2023-04-01,Cash
+20BCE1462,Divyansh Pandey,Orange Juice,50,2023-04-01,Cash
+20BAI1156,Piyush Mudgal,Chicken Pasta,90,2023-04-01,GPay
+20BCE1442,Shivam Sharma,Hot Chocolate,40,2023-04-01,Cash
+20BCE1288,Rishav Himmatramka,Egg Wrap,70,2023-04-01,GPay
+20BCE1209,Vishesh Singhal,Chicken Noodles,90,2023-04-01,Cash
+20BAI1289,Uppanapalli Lakshmi Sowjanya ,Watermelon Juice,40,2023-04-01,Paytm
+20BAI1242,Sudharshanan Balaji,Death By Chocolate,80,2023-04-01,GPay
+20BCE1082,Shrikumaran P A,Chicken Patty Sandwich,80,2023-04-01,Cash
+20BCE1651,Sparsh Wabhale,Butterscotch Milkshake,60,2023-04-01,Paytm
+20BRS1123,Swapnal Varma,Chicken Sub,90,2023-04-01,Cash
+20BRS1234,Ashish Choudhary,Chicken Sausage Sandwich,80,2023-04-01,GPay
+20BCE1831,Jennifer Teresa George ,Veg Pizza ,70,2023-04-01,Paytm
+20BCE1520,Vinayak Agrawal,French Fries,50,2023-04-01,Paytm
+20BAI1212,Bhuvaneshwari R,Donut,50,2023-04-01,GPay
+20BAI1078,Nihal Srivastava,Paneer Cheese Sandwich,60,2023-04-01,GPay
+20BCE1853,Sanya Garg,Grape Juice,50,2023-04-01,GPay
+20BCE1681,Ashar Irrfana H ,Paneer Wrap,80,2023-04-01,GPay
+20BAI1140,Shreyes Ram V,Pineapple Juice,50,2023-04-01,Cash
+20BRS1184,Aditi Jaiswal,Chocolate Truffle,50,2023-04-01,Paytm
+20BCE1650,Amritansh Anand,Mango Milkshake,60,2023-04-01,Paytm
+20BAI1240,Atharva Joshi,Banana Bread,30,2023-04-01,Cash
+20BAI1217 ,Parasu Sai Nikhil,Paneer Sub,90,2023-04-01,GPay
+20BCE1474,Santhanakrishnan B,Choco Lava Cake,50,2023-04-01,GPay
+20BCE1326,Krithika R,Chicken Sub,90,2023-04-01,GPay
+20BRS1120,Lavish R Jain,Veg Puff,20,2023-04-01,Cash
+20BPS1094,Anas Ahmad Siddiqui ,Sausage Wrap,90,2023-04-01,GPay
+20BPS1018,Adithya M Dileep ,Chocolate Mousse,40,2023-04-01,Cash
+20BAI1227,Muskan Mehta,Chicken Sausage Sandwich,80,2023-04-01,GPay
+20BRS1183,Chinmay Bapat,Brownie,60,2023-04-01,Paytm
+20BCE1481,Yash Parekh,Chocolate Mousse,40,2023-04-01,GPay
+20BCE1433,Akshay Kumaran V,Paneer Cheese Sandwich,60,2023-04-01,GPay
+20BCE1762,Sanchit Jain,Chicken Patty Wrap,90,2023-04-01,Paytm
+20BCE1226,Arun Kumawat,Death By Chocolate,80,2023-04-01,Paytm
+20BCE1280,Kollipara Monish Sai Gopi,Paneer Sub,90,2023-04-01,Cash
+20BCE1407,Prerna Sharma,Veg Cheese,50,2023-04-01,Cash
+20BCE1435,Aviral Gupta,Veg Puff,20,2023-04-01,Cash
+20BCE1968,Rukksana A,Sausage Wrap,90,2023-04-01,GPay
+20BPS1058,Aparna,Chicken Cheese Sandwich,70,2023-04-01,Paytm
+20BCE1030,K L Pranaav Reddy ,Watermelon Juice,40,2023-04-01,Paytm
+20BCE1140,Raghav Phophaliya,Chilli Cheese Sandwich,50,2023-04-01,Paytm
+20BCE1547,Anegha Jain,Chicken Patty Wrap,90,2023-04-01,Cash
+20BCE1740,Preeti Sai Thandavan ,Chicken Pizza ,90,2023-04-01,Cash
+20BCE1056,Dikshita Mehta,Mango Milkshake,60,2023-04-01,GPay
+20BCE1844,Tathagata Biswas,Choco Lava Cake,50,2023-04-01,Cash
+20BCE1269,Tanushree Gorai,Orange Juice,50,2023-04-01,Paytm
+20BCE1250,Altrin Lloyd Hudson D,Veg Noodles,70,2023-04-01,Paytm
+20BRS1013,Nishanth N,Chicken Nuggets,70,2023-04-01,Paytm
+20BCE1368,Harish B ,Orange Juice,50,2023-04-01,Cash
+20BCE1139,Mathav Krishnan,Watermelon Juice,40,2023-04-01,GPay
+20BRS1027,Palakuru Leena Reddy,Veg Patty,70,2023-04-01,Cash
+20BCE1787,Taran Akshay S,Sausage Wrap,90,2023-04-01,GPay
+20BCE1770,Avisi Sachan ,Fudge Brownie,70,2023-04-01,Paytm
+20BCE1538,Mayank Gupta,Chicken Cheese Sandwich,70,2023-04-01,GPay
+20BCE1822,Sidharthan R ,Sausage Wrap,90,2023-04-01,GPay
+20BRS1116,Aniket Kumar Paul,Chicken Momos ,80,2023-04-01,Cash
+20BCE1445,Uditi Gupta ,Grape Juice,50,2023-04-01,Paytm
+20BAI1121 ,Aayush Balaji ,Egg Puff,25,2023-04-01,Paytm
+20BCE1421,Krishna Prasad Y V S Purama,Chocolate Truffle,50,2023-04-01,GPay
+20BAI1037 ,Ishita Jain,Shredded Chicken Wrap,90,2023-04-01,GPay
+20BCE1526,Govind Anuj Kumar,Coffee,15,2023-04-01,GPay
+20BRS1002,Jagrit Taneja ,Chocolate Truffle,50,2023-04-01,GPay
+20BCE1908,Aryan Bhardwaj,Bread Omelette,50,2023-04-01,GPay
+20BRS1003 ,Riddhi Yogesh Phade,Chicken Pizza ,90,2023-04-01,Cash
+20BCE1882,Dhruvi ,Veg Burger,70,2023-04-01,GPay
+20BCE1043,Vishal N,Brownie,60,2023-04-01,GPay
+20BCE1212,Ankana Chatterjee,Banana Bread,30,2023-04-01,Cash
+20BCE1980,Md Saifee,Chicken Pizza ,90,2023-04-01,Paytm
+20BCE1531,Ch Yogeshwar Sai,Mango Milkshake,60,2023-04-01,GPay
+20BCE1022,Aman Kumar Singh,Veg Noodles,70,2023-04-01,GPay
+20BCE1986,Shruthi S,Chocolate Mousse,40,2023-04-01,Paytm
+20BPS1133,Deepthi.M,Veg Pizza ,70,2023-04-01,Cash
+20BCE1729,Arun Ramakrishnan,Watermelon Juice,40,2023-04-01,Cash
+20BAI1257,Vibho Ranjan,Chicken Burger,80,2023-04-01,Cash
+20BCE1667,Tanvi Bahedia,Sweet Lime Juice,50,2023-04-01,Paytm
+20BCE1126,G.Bhuvaneswari,Chicken Noodles,90,2023-04-01,Paytm
+20BRS1186,Gnanabharathi S,French Fries,50,2023-04-01,GPay
+20BCE1988,Ragavi O G,Brownie,60,2023-04-01,Paytm
+20BRS1122,Suraj Shah,Chicken Momos ,80,2023-04-01,GPay
+20BPS1118,Aastha Bansal,Paneer Cheese Sandwich,60,2023-04-01,Paytm
+20BCE1931 ,Atharva Pilankar,Paneer Momos,70,2023-04-01,GPay
+20BCE1357,Shyam Sundar.D,Coffee,15,2023-04-01,Cash
+20BRS1117,Dhruv Gupta,Chicken Momos ,80,2023-04-01,GPay
+20BCE1519,Adarsh Prasad ,Veg Pasta,80,2023-04-01,Cash
+20BRS1192,Harish R,Chicken Sub,90,2023-04-01,GPay
+20BCE1972,Harikrishna R,Chocolate Milkshake,60,2023-04-01,GPay
+20BCE1354,S Sakthi Saravanan ,Chocolate Truffle,50,2023-04-01,Paytm
+20BCE1328,Aryan Raj Wadhwa,Banana Juice,50,2023-04-01,Cash
+20BCE1819,J.Jayanthi,French Fries,50,2023-04-01,Paytm
+20BCE1041,Sajal Verma,Chicken Noodles,90,2023-04-01,Cash
+20BPS1109,Ganachari Sai Yathin,Coffee,15,2023-04-01,GPay
+20BCE1818,Akshit Jain,Chicken Cheese Sandwich,70,2023-04-01,GPay
+20BCE1544,Shreyas Sai,Paneer Cheese Sandwich,60,2023-04-01,GPay
+20BAI1087,Pranav Bhanot,Veg Momos,60,2023-04-01,Paytm
+20BCE1587,Raparla Puja Sri Pavani,Donut,50,2023-04-01,Cash
+20BRS1037,Chaitanya Kamasani,Chicken Sausage Sandwich,80,2023-04-01,Paytm
+20BCE1454,Sayam Tak,Chicken Nuggets,70,2023-04-01,Paytm
+20BCE1589,Dhanush B,Lime Juice,30,2023-04-01,Cash
+20BPS1144,Aryan Arora,Vanilla Milkshake,50,2023-04-01,Cash
+20BCE1848,Mohammad Altafkha Ibrahimkha Pathan,Paneer Sub,90,2023-04-01,GPay
+20BCE1109,Sanyam Sharma,Egg Wrap,70,2023-04-01,Cash
+20BCE1763,Janhavi Chaturvedi ,Chicken Pizza ,90,2023-04-01,Paytm
+20BAI1099,Devika Santosh ,Vanilla Milkshake,50,2023-04-01,GPay
+20BRS1077,Dhairya Gupta,Veg Burger,70,2023-04-01,GPay
+20BCE1470 ,Yasaswini,Chilli Cheese Sandwich,50,2023-04-01,Paytm
+20BCE1685,Priyanshu Vyas,Shredded Chicken Wrap,90,2023-04-01,GPay
+20BCE1688,Kunal Vishwa S,Veg Pasta,80,2023-04-01,Paytm
+20BCE1501,Akash R ,Chicken Pasta,90,2023-04-01,GPay
+20BCE176&,Vishak Nair,Banana Juice,50,2023-04-01,Paytm
+20BCE1074,Srinath Ns,Egg Puff,25,2023-04-01,Paytm
+20BAI1133,Meghna Sinha,Oreo Cookie Milkshake,60,2023-04-01,Paytm
+20BCE1046,Lavansh Arora ,Veg Pasta,80,2023-04-01,Paytm
+20BRS1036,Gaurav Jayant Shrivastava,Veg Puff,20,2023-04-01,Paytm
+20BCE1710,Tanvi Shrikhande ,Tea,15,2023-04-01,Cash
+20BRS1075,Aman Gupta,Paneer Momos,70,2023-04-01,GPay
+20BCE1369,Arihantt Nandi ,Vanilla Milkshake,50,2023-04-01,GPay
+20BAI1005,Ankit Kumar Sahu,Chicken Sausage Sandwich,80,2023-04-01,GPay
+20BPS1050,Ankit Kumar Jha,Chicken Patty Wrap,90,2023-04-01,GPay
+20BAI1095,Amogh Pal,Egg Puff,25,2023-04-01,Cash
+20BCE1645,Pranvat.Singh2020@Vitstudent.Ac.In,Chicken Burger,80,2023-04-01,Cash
+20BCE1826,Renil Augustine Babh,Butterscotch Milkshake,60,2023-04-01,Cash
+20BPS1135,Ayushi Trivedi,Samosa,20,2023-04-01,Paytm
+20BAI1305,Ayyappan T,Choco Lava Cake,50,2023-04-01,Paytm
+20BCE1936,Kovvuri Chandra Kiran Reddy ,Grape Juice,50,2023-04-01,Paytm
+20BCE1637,Shubham Gupta ,Paneer Wrap,80,2023-04-01,GPay
+20BCE1360,Prathiba Lakshmi Narayan,Brownie,60,2023-04-01,Paytm
+20BCE1198,Sujit Kumar,Banana Bread,30,2023-04-01,Paytm
+20BAI1109,Devansh Tripathi,Sausage Wrap,90,2023-04-01,GPay
+20BCE1530,Sighakolli Vaibhav,Chicken Cheese Sandwich,70,2023-04-01,Paytm
+20BCE1356,Sam Meshach D,Death By Chocolate,80,2023-04-01,GPay
+20BCE1139 ,Mathav Krishnan ,Chicken Pizza ,90,2023-04-01,Cash
+20BRS1103,Rachit Mehul Pathak,Chicken Nuggets,70,2023-04-01,Paytm
+20BCE1321,Shreyaa Raghavan,Samosa,20,2023-04-01,GPay
+20BCE1556,Jui Vanzara ,Veg Pasta,80,2023-04-01,GPay
+20BAI1041,Faizah Mahendi Nawaz Kureshi,Sausage Wrap,90,2023-04-01,Paytm
+20BRS1049,Nimish Kashyap ,Veg Patty Wrap,80,2023-04-01,GPay
+20BPS1043,Avni Ahuja,Pineapple Juice,50,2023-04-01,Paytm
+20BAI1053,Gautam Arora,Sausage Wrap,90,2023-04-01,Cash
+20BCE1640,Panav Sinha,Vanilla Milkshake,50,2023-04-01,Cash
+20BCE1601,Sujay Lal ,Chicken Patty Wrap,90,2023-04-01,GPay
+20BAI1058,Avin Joseph,Brownie,60,2023-04-01,Paytm
+20BCE1361,Shivali R,Paneer Momos,70,2023-04-01,GPay
+20BRS1166,Aranyaa Khatawate,Banana Juice,50,2023-04-01,Paytm
+20BRS1086,Charan Sai G,Veg Puff,20,2023-04-01,Paytm
+20BCE1558,Sankalp Bhatnagar,Tea,15,2023-04-01,GPay
+20BCE1100,Sumegh Sadashiv Gonugade,Banana Juice,50,2023-04-01,Paytm
+20BRS1269,Neeraj J Manurkar,Chocolate Mousse,40,2023-04-01,Paytm
+20BAI1076,Prathmesh Rajendra Potabatti,Cold Coffee,60,2023-04-01,Cash
+20BRS1073,Sreeram K P,Choco Lava Cake,50,2023-04-01,GPay
+20BAI1175,Muhesh Kumar B,French Fries,50,2023-04-01,GPay
+20BCE1340 ,Dhipika.K ,Death By Chocolate,80,2023-04-01,Cash
+20BCE1220,Mehul Bansal,Tea,15,2023-04-01,Paytm
+20BRS1054,Aneesh Aparajit G,Banana Juice,50,2023-04-01,GPay
+20BCE1981,Krishna Kumar ,Chicken Nuggets,70,2023-04-01,GPay
+20BCE1080,Nilavan .I,Chocolate Milkshake,60,2023-04-01,GPay
+20BCE1687,Kanna Lakshmi Dathatreya ,Bread Omelette,50,2023-04-01,Paytm
+20BCE1528,K.G. Shankiya,Chicken Pizza ,90,2023-04-01,GPay
+20BCE1622,Muskaan Yadav,Hot Chocolate,40,2023-04-01,Paytm
+20BAI1127,Anant Tater,Donut,50,2023-04-01,GPay
+20BCE1391,Karthikram R,Coffee,15,2023-04-01,Paytm
+20BCE1619,Aadithya,Chicken Momos ,80,2023-04-01,Cash
+20BCE1172, Mohammed Aymaan Baig,Orange Juice,50,2023-04-01,Cash
+20BPS1053,Aravind P,Chicken Patty Sandwich,80,2023-04-01,Cash
+20BCE1156,Neppali Raviteja,Chicken Sub,90,2023-04-01,Cash
+20BCE1290 ,Ayesha Numa ,Chicken Patty Wrap,90,2023-04-01,GPay
+20BCE1414,Atul Nair,Veg Cheese,50,2023-04-01,Paytm
+20BCE1883,Tarun,French Fries,50,2023-04-01,Cash
+20BCE1152,Anushka Chatterjee,Tea,15,2023-04-01,GPay
+20BCE1091,Santhosh Ram G K ,French Fries,50,2023-04-01,Cash
+20BCE1907,Baskar S,Veg Noodles,70,2023-04-01,GPay
+20BCE1479,Manvik Sreedath ,Egg Puff,25,2023-04-01,Paytm
+20BAI1201,Rohan Pawar,Chicken Momos ,80,2023-04-01,Paytm
+20BPS1007,Siddharth,Grape Juice,50,2023-04-01,Cash
+20BAI1008,Puja Sai Thandavan,Donut,50,2023-04-01,Paytm
+20BCE1409,Akshat Gupta,Choco Lava Cake,50,2023-04-01,Cash
+20BCE1557,Adarsh Kumar,Sweet Lime Juice,50,2023-04-01,Paytm
+20BCE1625,Sidhant Singh ,Tea,15,2023-04-01,Cash
+20BAI1230,Neha Ann Shygen,Cold Coffee,60,2023-04-01,Cash
+20BCE1460,Sreedutt Haridos,Paneer Sub,90,2023-04-01,Paytm
+20BRS1094,Rishik Kumar,Tea,15,2023-04-01,Cash
+20BCE1129,Vishal Kumar,Chicken Patty Wrap,90,2023-04-01,Paytm
+20BPS1040,Saravanan.C,Tea,15,2023-04-01,Cash
+20BCE1961,Ajeet Singh Yadav,Egg Puff,25,2023-04-01,Cash
+20BAI1025,Devashree Pravakar,Veg Noodles,70,2023-04-01,GPay
+20BCE1427,Katasani Durga Pravalika,Pomegranate Juice,60,2023-04-01,Paytm
+20BAI1183,Arakkal Samuel Shaju,Banana Juice,50,2023-04-01,Paytm
+20BCE1340,Dhipika K,Paneer Cheese Sandwich,60,2023-04-01,Paytm
+20BCE1443,Tushar Mohankumar ,Butterscotch Milkshake,60,2023-04-01,GPay
+20BAI1221,Sarvesh Chandak,Veg Pizza ,70,2023-04-01,Paytm
+20BCE1289,Yashvardhan Gupta ,Veg Puff,20,2023-04-01,Paytm
+20BCE1714,Ujjwal Kanti Pramanick,Hot Chocolate,40,2023-04-01,GPay
+20BCE1098,Vishvajeet Ravalekar ,Orange Juice,50,2023-04-01,Paytm
+20BAI1147,Priya S,Chicken Burger,80,2023-04-01,Paytm
+20BAI1180,Aman Sharda,Brownie,60,2023-04-01,GPay
+20BCE1375,R. Shruthi,Watermelon Juice,40,2023-04-01,GPay
+20BCE1734,Mridul Jadon,Brownie,60,2023-04-01,Cash
+20BPS1067,Hari Ganesh P A,Strawberry Milkshake,60,2023-04-01,GPay
+20BCE1311,Shubham Agarwal,Paneer Momos,70,2023-04-01,GPay
+20BPS1042,Siddharth Suresh ,Watermelon Juice,40,2023-04-01,Paytm
+20BCE1611,Jagdish Shyamsundar Sindhi,Chocolate Mousse,40,2023-04-01,Paytm
+20BCE1216,Aditya Bhardwaj,Butterscotch Milkshake,60,2023-04-01,Cash
+20BAI1223,Vimalan,Death By Chocolate,80,2023-04-01,GPay
+20BCE1984,Shreya Manoj Kumar,Chicken Noodles,90,2023-04-01,GPay
+20BCE1853 ,Sanya Garg ,Bread Omelette,50,2023-04-01,GPay
+20BPS1024,S Sanjay,Fudge Brownie,70,2023-04-01,Cash
+20BCE1612,Khushi Habbu,Cold Coffee,60,2023-04-01,Paytm
+20BPS1110,Tanu Gangwar,Veg Pizza ,70,2023-04-01,Cash
+20BAI280,K S Sanjay,Butterscotch Milkshake,60,2023-04-01,Cash
+20BCE1496,Aniket Bhuwania,Mango Milkshake,60,2023-04-01,GPay
+20BAI1262,Gauthama A L G,Hot Chocolate,40,2023-04-01,Cash
+20BAI1132,Pinni Venkata Abhiram ,Butterscotch Milkshake,60,2023-04-01,Paytm
+20BRS1163,Chandramauli Shastri,Bread Omelette,50,2023-04-01,Cash
+20BAI1244,Sailesh Aman Dola,Strawberry Milkshake,60,2023-04-01,Paytm
+20BPS1031,Abhraneel Dey,Mango Milkshake,60,2023-04-01,Cash
+20BCE1003,Aakash R ,Sweet Lime Juice,50,2023-04-01,Cash
+20BCE1174,Utukuri Geyarka S Nikhilesh,Chocolate Truffle,50,2023-04-01,GPay
+20BPS1006,Anish Samantaray ,Pomegranate Juice,60,2023-04-01,GPay
+20BCE1040,Rs Jyothish,Egg Puff,25,2023-04-01,Cash
+20BCE1486,Abhinav Goswami,Chilli Cheese Sandwich,50,2023-04-01,GPay
+20BRS1129,Sai Teja Bandaru ,Chicken Pasta,90,2023-04-01,Paytm
+20BRS1187,Aditya Kumar Singh,Coffee,15,2023-04-01,GPay
+20BCE1767,Sriharan R,Butterscotch Milkshake,60,2023-04-01,Paytm
+20BRS1252,Sairam Reddy,Chocolate Truffle,50,2023-04-01,Paytm
+20BCE1648,Madhumithaa Rp ,Mango Milkshake,60,2023-04-01,Cash
+20BAI1150,Thondepu Jahnavi,Choco Lava Cake,50,2023-04-01,GPay
+20BCE1577,Praful Mittal,Lime Juice,30,2023-04-01,Paytm
+20BCE1099,Kaushal Nilesh Barhate,Tea,15,2023-04-01,Cash
+20BCE1709,Prashant Kumar Sharma ,Chilli Cheese Sandwich,50,2023-04-01,Paytm
+20BCE1182,Sheral Simon Waskar,Paneer Sub,90,2023-04-01,Cash
+20BCE1661,Deepavarshini T,Chilli Cheese Sandwich,50,2023-04-01,GPay
+20BCE1885,Anushka Bisani,Veg Pizza ,70,2023-04-01,GPay
+20BPS1160,Tamarala Sree Nikitha,Veg Pizza ,70,2023-04-01,Paytm
+20BCE1018 ,Manas Tiwari,Egg Wrap,70,2023-04-01,GPay
+20BCE1234,Sinojia Meet,Bread Omelette,50,2023-04-01,Cash
+20BCE1752,Navur Sai Charan,Donut,50,2023-04-01,Cash
+20BCE1923,Anu Cyril Saju,Vanilla Milkshake,50,2023-04-01,Cash
+20BAI1205,Shivaprakash Shivakumaraswamy Jayachamarajapura,Chilli Cheese Sandwich,50,2023-04-01,Paytm
+20BRS1048,Japmann Kaur Banga,Veg Cheese,50,2023-04-01,Cash
+20BAI1184,Arindam Rao,Chicken Sausage Sandwich,80,2023-04-01,Paytm
+20BAI1074,Lynie Vi Grand,Chocolate Truffle,50,2023-04-01,Cash
+20BAI1088,Manya Gaur,Oreo Cookie Milkshake,60,2023-04-01,Cash
+20BCE1753,Gv Sagar,Bread Omelette,50,2023-04-01,GPay
+20BCE1309,Santhosh Narayanan B ,Chicken Burger,80,2023-04-01,Cash
+20BRS1161,Savio Sajan Moloparambil ,Veg Pasta,80,2023-04-01,GPay
+20BEE1144,Srinidhi R,Chicken Sausage Sandwich,80,2023-04-01,GPay
+20BCE1377,Kevin Gandhi,Pineapple Juice,50,2023-04-01,Cash
+20BCE1214,Aryaan Chauhan,Pineapple Juice,50,2023-04-01,Paytm
+20BAI1265,Roshni Senthilkumar ,Veg Pasta,80,2023-04-01,GPay
+20BCE1468,Raghav K,Veg Patty,70,2023-04-01,GPay
+20BAI1315,Deepthi Srinivasan,Choco Lava Cake,50,2023-04-01,Paytm
+20BCE1975,Hariket Sukesh Kumar Sheth,Strawberry Milkshake,60,2023-04-01,Paytm
+20BRS1010,Jay Kumar Sahoo,Veg Pizza ,70,2023-04-01,Paytm
+20BCE1872,Sagar Pahuja,Veg Patty,70,2023-04-01,Paytm
+20BCE1913,Kritika Jindal,Paneer Sub,90,2023-04-01,Paytm
+20BCE1439,Sletzer Concy Mascarenhas,Coffee,15,2023-04-01,Paytm
+20BCE1565,Apoorv Kumar Sinha,Hot Chocolate,40,2023-04-01,Cash
+20BCE1434,Akshansh Rawat ,Donut,50,2023-04-01,GPay
+20BAI1085,Jayanand Jayan,Chicken Patty Wrap,90,2023-04-01,Cash
+20BCE1550,Samridh Anand Paatni,Chicken Sub,90,2023-04-01,GPay
+20BRS1016,Ananya Dikshit,Paneer Momos,70,2023-04-01,Paytm
+20BCE1513,Saptajit Banerjee,Veg Cheese,50,2023-04-01,GPay
+20BCE1016,Priyadharshini S,Lime Juice,30,2023-04-01,GPay
+20BCE1791 ,Aayushi ,Veg Burger,70,2023-04-01,GPay
+20BCE1420,Karthik Raj R ,Vanilla Milkshake,50,2023-04-01,GPay
+20BRS1082,Siri Dadi ,Banana Bread,30,2023-04-01,Paytm
+20BCE1049 ,Keerthana S,Egg Puff,25,2023-04-01,Cash
+20BCE1581,Megha Nath,Chicken Momos ,80,2023-04-01,Cash
+20BPS1153,S Swetha,Strawberry Milkshake,60,2023-04-01,Cash
+20BPS1119,S Srividhya,Banana Bread,30,2023-04-01,GPay
+20BCE1976 ,Shubh K Patel,Fudge Brownie,70,2023-04-01,Cash
+20BRS1098,Anuj Singh Chauhan,Chocolate Swiss Roll,50,2023-04-01,Paytm
+20BCE1899,Ayush Srivastava ,Veg Patty,70,2023-04-01,Cash
+20BCE1422,Adarsh Kumar Dubey ,Death By Chocolate,80,2023-04-01,GPay
+20BCE1699,Sudarsun S,Paneer Sub,90,2023-04-01,Paytm
+20BPS1014,Girish Theja ,Death By Chocolate,80,2023-04-01,GPay
+20BCE1903,Mahathi V,Chocolate Mousse,40,2023-04-01,Paytm
+20BAI1020,Ajay Rajkumar K,Hot Chocolate,40,2023-04-01,GPay
+20BCE1548,Tirth Vishalbhai Dave,Veg Noodles,70,2023-04-01,Cash
+20BAI1176,Kevin John Joseph ,Chocolate Swiss Roll,50,2023-04-01,Paytm
+20BCE1196,Prakhar Sachan ,Strawberry Milkshake,60,2023-04-01,Paytm
+20BCE1929,Harsh Parwal,Chicken Patty Wrap,90,2023-04-01,Cash
+20BRS1160 ,Aswathi Manoj Kumar ,Paneer Wrap,80,2023-04-01,GPay
+20BCE1161,Shubhangi Agrawal,Paneer Cheese Sandwich,60,2023-04-01,GPay
+20BCE1295,Satish Kumar Nair,Watermelon Juice,40,2023-04-01,GPay
+20BCE1436,Shrenik Abrol,Chicken Sub,90,2023-04-01,Paytm
+20BCE1647,Kabilan Pugalenthi,Chicken Sausage Sandwich,80,2023-04-01,Paytm
+20BCE1922,Rishi Nair,Chocolate Mousse,40,2023-04-01,Cash
+20BAI1110,P B Pranav Venkatadhri,Mango Milkshake,60,2023-04-01,Paytm
+20BCE1719,Saptarshi Mukherjee,Veg Pasta,80,2023-04-01,GPay
+20BAI1266,Austin Emmanuel Paulraj,Watermelon Juice,40,2023-04-01,Paytm
+20BRS1080,Arun Prasath B,Pineapple Juice,50,2023-04-01,Paytm
+20BAI1191,Amaravadi Dheeraj ,Watermelon Juice,40,2023-04-01,Paytm
+20BAI1009,Tejashwa Agarwal ,Watermelon Juice,40,2023-04-01,Cash
+20BAI1207,Narayan Subramanian,Shredded Chicken Wrap,90,2023-04-01,Cash
+20BCE1370,Saurish Sharma,Egg Wrap,70,2023-04-01,Cash
+20BAI1100,Lavanya Puri,Veg Pasta,80,2023-04-01,Cash
+20BCE1320,Anjali Jain,Donut,50,2023-04-01,GPay
+20BPS1055,Prasad Abhinav Vijaykumar,Veg Noodles,70,2023-04-01,GPay
+20BAI1237,Sriuvaraaj Gv,Lime Juice,30,2023-04-01,Cash
+20BRS1264,Rahul Gandhi,Tea,15,2023-04-01,Paytm
+20BAI1033,Shruti Talukder,Veg Patty Wrap,80,2023-04-01,Paytm
+20BCE1207,Nimmakayala Yaswanth Sri Seshagiri ,Fudge Brownie,70,2023-04-01,Paytm
+20BRS1104,Ajay Varma Mudunuri ,Veg Pizza ,70,2023-04-01,GPay
+20BPS1145,Harsh Deswal,Tea,15,2023-04-01,Cash
+20BCE1335,Shreyas Bhaskar,Tea,15,2023-04-01,GPay
+20BCE1378,Sakshi Saraogi ,Banana Bread,30,2023-04-01,GPay
+20BPS1074,Gowrinand Syamlal,Chicken Pasta,90,2023-04-01,Paytm
+20BCE1536,Kritin D Madhavan,Banana Juice,50,2023-04-01,Cash
+20BCE1155,Rohan Naithani ,Veg Noodles,70,2023-04-01,Cash
+20BRS1127,Harisha S,Donut,50,2023-04-01,Paytm
+20BPS1076,Harsh Nishad,Veg Pasta,80,2023-04-01,GPay
+20BPS1017,Swapnil Pandey ,Veg Burger,70,2023-04-01,Paytm
+20BCE1741,Vasanth Yarlagadda,Veg Momos,60,2023-04-01,GPay
+20BPS1078,Disha Gupta,Egg Wrap,70,2023-04-01,GPay
+20BCE1113,Sai Silesh N K,Pineapple Juice,50,2023-04-01,Paytm
+20BCE1263,Akash S,Fudge Brownie,70,2023-04-01,Cash
+20BCE1665,Amrutha Ms,Chicken Noodles,90,2023-04-01,GPay
+20BPS1101,Ram Srikar Putcha ,Chocolate Truffle,50,2023-04-01,GPay
+20BCE1277,Gandla Pravallika ,Strawberry Milkshake,60,2023-04-01,Cash
+20BCE1858,S.V.Navya Kala,Chocolate Swiss Roll,50,2023-04-01,Cash
+20BPS1016,Madhumitha S ,Vanilla Milkshake,50,2023-04-01,GPay
+20BCE1768,Shashank Sharma,Chicken Burger,80,2023-04-01,Cash
+20BCE1598,Ritika Kumari Pandey,Bread Omelette,50,2023-04-01,GPay
+20BAI1145,S P Praveen Kumar,Choco Lava Cake,50,2023-04-01,Paytm
+20BCE1189,Khushi Mattu,Veg Patty Wrap,80,2023-04-01,Cash
+20BCE1766,Surya Narayanan K S,Shredded Chicken Wrap,90,2023-04-01,Cash
+20BCE1491,Lalith Kanakamedala,Sweet Lime Juice,50,2023-04-01,GPay
+20BAI1026,Subritta Chatterjee,Veg Patty Wrap,80,2023-04-01,Cash
+20BRS1137,S Abenav Ram ,Chocolate Milkshake,60,2023-04-01,Cash
+20BRS1046,Ganti Venkata Varshini ,Chilli Cheese Sandwich,50,2023-04-01,Paytm
+20BCE1419,Jaydeep Dey,Grape Juice,50,2023-04-01,Cash
+20BAI1012,Karan Dua,Bread Omelette,50,2023-04-01,GPay
+20BPS1051,Harsha Vardhan T ,Chicken Sausage Sandwich,80,2023-04-01,GPay
+20BRS1066,Sai Tharun V,Chocolate Truffle,50,2023-04-01,GPay
+20BCE1222,Venkat Amith Woonna,French Fries,50,2023-04-01,Cash
+20BAI1308,Akshat Keshav Dhamale,Orange Juice,50,2023-04-01,Paytm
+20BRS1051,Manu Pradeep Kumar,Death By Chocolate,80,2023-04-01,Cash
+20BCE1019,Subramanian Nachiappan,Watermelon Juice,40,2023-04-01,Paytm
+20BCE1493,Arnav Sarkar,Banana Bread,30,2023-04-01,Paytm
+20BCE1324,Sakshi Singh,Chilli Cheese Sandwich,50,2023-04-01,GPay
+20BPS1011,Velidanda Manoj Reddy ,Chicken Patty Wrap,90,2023-04-01,Paytm
+20BAI1068,Rewa Abhyankar,Grape Juice,50,2023-04-01,GPay
+20BCE1330,Nithya Radhakrishnan,Chicken Pizza ,90,2023-04-01,Cash
+20BCE1806,Uday Singh Shergill,Veg Patty,70,2023-04-01,Paytm
+20BPS1165,Biswadeep Ray,Chocolate Milkshake,60,2023-04-01,Cash
+20BAI1251,Sneha S,Chicken Noodles,90,2023-04-01,GPay
+20BCE1389,Niranjana K,Chicken Burger,80,2023-04-01,Paytm
+20BCE1809,Harnur Singh ,Veg Pasta,80,2023-04-01,Cash
+20BCE1448,Siddhesh Vikas Kushare ,Veg Pizza ,70,2023-04-01,Paytm
+20BRS1136,Arun Adhithiya V S,Chicken Patty Wrap,90,2023-04-01,Paytm
+20BCE1742,Mohan Ram R,Shredded Chicken Wrap,90,2023-04-01,Cash
+20BCE1987,Vishakha Agarwal,Veg Cheese,50,2023-04-01,GPay
+20BCE1144,Siddharth Thakur ,Choco Lava Cake,50,2023-04-01,GPay
+20BRS1071,Devansh Ajmera,Paneer Cheese Sandwich,60,2023-04-01,GPay
+20BRS1211,Jeyahari Rajasekar,Chicken Pasta,90,2023-04-01,Paytm
+20BPS1052,G Sushobith,Paneer Wrap,80,2023-04-01,GPay
+20BCE1033,Sharon Shibu George,Veg Cheese,50,2023-04-01,GPay
+20BRS1190,S.Shrikrish,Vanilla Milkshake,50,2023-04-01,GPay
+20BPS1105,Abhimanyu Singh,Chicken Pasta,90,2023-04-01,Cash
+20BAI1258,Sneha Shankar,Lime Juice,30,2023-04-01,Paytm
+20BPS1045,Rohit Krishnan,Veg Noodles,70,2023-04-01,Cash
+20BCE1700,Anshul Dhakar,French Fries,50,2023-04-01,Paytm
+20BCE1985,Reuben.Manoj2020@Vitstudent.Ac.In,Coffee,15,2023-04-01,GPay
+20BRS1224,Abhay Arora,Sweet Lime Juice,50,2023-04-01,Cash
+20BCE1684,J.Harikrishna,Egg Wrap,70,2023-04-01,Paytm
+20BCE1171,Nandini Singh,Veg Burger,70,2023-04-01,Cash
+20BRS1074,Kritish Palrecha,Chocolate Milkshake,60,2023-04-01,GPay
+20BCE1470,Kovi Yasaswini,Egg Puff,25,2023-04-01,Cash
+20BCE1150,S.Rohit Madhavan,Chocolate Truffle,50,2023-04-01,GPay
+20BCE1345,Shantanu Nimat,Pineapple Juice,50,2023-04-01,GPay
+20BAI1167,Soham Kumar,Pomegranate Juice,60,2023-04-01,Paytm
+20BCE1114,Smruti Rajakumar,Paneer Wrap,80,2023-04-01,Cash
+20BCE1348,Satwika Sridhar,Veg Momos,60,2023-04-01,Paytm
+20BCE1072,Vasu Bansal,Veg Cheese,50,2023-04-01,GPay
+20BCE1475,Christo Sharon Victoria W ,Banana Juice,50,2023-04-01,Paytm
+20BCE1147,Kartike Chadha ,Chocolate Swiss Roll,50,2023-04-01,Paytm
+20BRS1114,Sai Samyuktha N,Chicken Patty Wrap,90,2023-04-01,Cash
+20BAI1042,Am Jhagan,Paneer Wrap,80,2023-04-01,Paytm
+20BCE1314,Shylesh Shankar V,Vanilla Milkshake,50,2023-04-01,GPay
+20BAI1125,Siddharth Shankar Das,Samosa,20,2023-04-01,GPay
+20BCE1450,Sreenath S ,Chicken Burger,80,2023-04-01,Paytm
+20BCE1788,Anchana ,Sweet Lime Juice,50,2023-04-01,Paytm
+20BCE1563,P Shri Varshan,Chicken Patty Wrap,90,2023-04-01,Cash
+20BCE1937 ,Shah Siddh Tejaskumar ,Strawberry Milkshake,60,2023-04-01,GPay
+20BCE1452,Aryan Vigyat ,Chicken Burger,80,2023-04-01,Cash
+20BRS1125,T.S.Varshini,Lime Juice,30,2023-04-01,Cash
+20BAI1269,Chinthamani Mohan Krishna,Chilli Cheese Sandwich,50,2023-04-01,Cash
+20BAI1019,Dineshkumar M,Veg Puff,20,2023-04-01,Paytm
+20BRS1012,D.Karthavya,Butterscotch Milkshake,60,2023-04-01,Paytm
+20BAI1030,Anikait Singh,Chicken Pizza ,90,2023-04-01,GPay
+20BCE1847,Adrian V. Martin,Veg Burger,70,2023-04-01,Cash
+20BAI1092,Tushar Moolchandani,Chicken Nuggets,70,2023-04-01,Paytm
+20BCE1455,Shiva Chidambaram S ,Veg Patty Wrap,80,2023-04-01,Cash
+20BAI1051,Khushi Tanna ,Chicken Cheese Sandwich,70,2023-04-01,GPay
+20BCE1484,T S Gautham Rajan,Chicken Pizza ,90,2023-04-01,GPay
+20BPS1026,Akash Kandakatla,Veg Patty,70,2023-04-01,GPay
+20BCE1871,S Gopi,Fudge Brownie,70,2023-04-01,Cash
+20BCE1383,Gayatri Lellapalli,Cold Coffee,60,2023-04-01,GPay
+20BAI1104,Kondreddy Gouthami,Fudge Brownie,70,2023-04-01,GPay
+20BRS1140,Sachit Nair,Oreo Cookie Milkshake,60,2023-04-01,GPay
+20BCE1706,Gatik Madaan,Chicken Nuggets,70,2023-04-01,GPay
+20BCE1281,Jasneet Singh Bhatti,Veg Puff,20,2023-04-01,Paytm
+20BCE1967,Raghvi Khandelwal ,Egg Wrap,70,2023-04-01,Paytm
+20BCE1283,Gutha Venkata Naga Mithulesh Chowdary,Veg Burger,70,2023-04-01,GPay
+20BRS1180,Sahil Amritkar,Chicken Sausage Sandwich,80,2023-04-01,GPay
+20BCE1683,Lokesh Kumar ,Watermelon Juice,40,2023-04-01,Paytm
+20BPS1003,Akanksha Singh,Chicken Cheese Sandwich,70,2023-04-01,Paytm
+20BCE1838 ,Garvit Jakar ,Chocolate Milkshake,60,2023-04-01,Cash
+20BRS1113,Madhu Vanthi Sankar Ganesh ,Veg Patty Wrap,80,2023-04-01,Paytm
+20BAI1060,Yash Bhootda,Veg Patty,70,2023-04-01,Cash
+20BCE1404,Manav Jain,Strawberry Milkshake,60,2023-04-01,Paytm
+20BRS1015,Dinesh D,Shredded Chicken Wrap,90,2023-04-01,Paytm
+20BCE1107,Ibrahim Ali,Chicken Sub,90,2023-04-01,GPay
+20BCE1707,Sumit Chandna,Mango Milkshake,60,2023-04-01,GPay
+20BRS1099,Prithu Shukla,Pomegranate Juice,60,2023-04-01,Paytm
+20BCE1512,Mayank Godara,Oreo Cookie Milkshake,60,2023-04-01,Paytm
+20BCE1249,Gokul Jayan,Butterscotch Milkshake,60,2023-04-01,Cash
+20BCE1081,Shashvath Radhakrishnan,Chicken Patty Sandwich,80,2023-04-01,GPay
+20BCE1554,Atharva Umbre,Paneer Cheese Sandwich,60,2023-04-01,Paytm
+20BAI1297,Harikishan Takoor ,Fudge Brownie,70,2023-04-01,GPay
+20BCE1630,Mohamed Ashraf Ali K,Butterscotch Milkshake,60,2023-04-01,Cash
+20BAI1288,Aryan Singh Kushwaha ,Veg Noodles,70,2023-04-01,Paytm
+20BCE1567,Shaheen Subah,Chicken Noodles,90,2023-04-01,Cash
+20BAI1267,Denzel Shaju,French Fries,50,2023-04-01,Paytm
+20BCE1477,Raminedi Santhosh,Mango Milkshake,60,2023-04-01,Cash
+20BCE1416,Kaushik K,Chicken Nuggets,70,2023-04-01,Cash
+20BCE1076,Abhir Mirikar ,Brownie,60,2023-04-01,Cash
+20BCE1199 ,Tanisha Poddar ,Chilli Cheese Sandwich,50,2023-04-01,Cash
+20BAI1314,Shatakshi Shree,Veg Pizza ,70,2023-04-01,GPay
+20BCE1935,Raman Kumar,Pomegranate Juice,60,2023-04-01,Paytm
+20BAI1085,Jayanand Jayan,Chicken Nuggets,70,2023-04-02,GPay
+20BAI1085,Jayanand Jayan,Death By Chocolate,80,2023-04-02,GPay
+20BAI1085,Jayanand Jayan,Chicken Nuggets,70,2023-04-02,GPay
+20BAI1085,Jayanand Jayan,Death By Chocolate,80,2023-04-02,GPay
+20BAI1085,Jayanand Jayan,Chicken Nuggets,70,2023-04-02,GPay
+20BAI1085,Jayanand Jayan,Death By Chocolate,80,2023-04-02,GPay
+20BAI1213,Rohita Chakraborty,Chicken Sausage Sandwich,80,2023-04-02,PayTM
+20BAI1121,Aayush Balaji,Sausage Wrap,90,2023-04-02,Cash
+20BAI1121,Aayush Balaji,Samosa,20,2023-04-02,Cash
+20BAI1026,Subritta,Chicken Patty Wrap,90,2023-04-02,GPay
+20BAI1026,Subritta,Samosa,20,2023-04-02,GPay
+20BAI1026,Subritta,Chicken Sub,90,2023-04-02,GPay
+20BAI1026,Subritta,Chicken Patty Wrap,90,2023-04-02,GPay
+20BAI1026,Subritta,Samosa,20,2023-04-02,GPay
+20BAI1026,Subritta,Chicken Sub,90,2023-04-02,GPay

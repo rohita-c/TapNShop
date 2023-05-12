@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>New Purchase</title>
+        <link href="{{ url_for('static', path='/styles/purchase.css') }}" rel="stylesheet">
+        <!-- <script src="{{ url_for('static', path='/js/multiselect-dropdown.js') }}"></script> -->
+
+    </head>
+    <body>
+        <div class="container">
+            <form action="/submit_purchase" method="POST">
+                <label for="id">ID</label><br>
+                <input type="text" id="id" name="id"><br><br>
+                <label for="cname">Name</label><br>
+                <input type="text" id="cname" name="cname"><br><br>
+                <label for="items">Items</label><br>
+                <div class="items_container">
+                    {% for item, cost in menu.items() %}
+                    <span class="dropdown_labels">
+                        <input type="checkbox" name="sel_items" value="{{ item }}: {{ cost }}"/>{{ item }}
+                    </span>
+                    {% endfor %}
+                </div><br>
+                <div onclick="handleItemAdd()" id="cart_button" class="cart_button"><img src="{{ url_for('static', path='/images/shopping-cart.png') }}" height="15px" alt="Shopping Cart"> Add to Cart</div>
+                <br>
+                <label for="cost">Total Cost</label><br>
+                <input id="cost" name="cost" value="Rs. 0" type="text"><br><br>
+                <label for="pay_meth">Payment Method</label><br>
+                <select class="methods" id="pay_meth" name="pay_meth">
+                    {% for meth in pay_meth %} 
+                    <option class="methods" value="{{ meth }}">{{ meth }}</option>
+                    {% endfor %}
+                </select><br><br>
+                <button class="submitbutton" onclick = "() => {window.close();}">Submit</button><br>
+            </form>
+        </div>
+        <script> 
+            function handleItemAdd() {
+                var selected_items = document.getElementsByName("sel_items");
+                var tot_cost = 0;
+                selected_items.forEach(item => {
+                    if (item.checked) {
+                        var it = item.value.split(": ");
+                        tot_cost += parseInt(it[1]);
+                    }
+                })
+                document.getElementById('cost').value = "Rs. " +tot_cost;
+            }
+        </script>
+    </body>
+</html>

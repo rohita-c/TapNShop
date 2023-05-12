@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+    <head>
+        <title>Gazebo</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="{{ url_for('static', path='/styles/home.css') }}" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="banner">
+            Gazebo
+        </div><br><br><br>
+        <span class="numRows">Select number of rows to be shown <span class="downloadText">Download today's sales</span></span><br><br>
+        <span>
+            <select name="numrows" id="rowsShown">
+                <option value="5000">Show All</option>
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="15">15</option>
+                <option value="20">20</option>
+                <option value="25">25</option>
+            </select>
+                <a class="btn btn-success download_btn" role="button" href="http://localhost:8000/download" download="Sales.csv">Download</a>
+        </span>
+        <hr width="97%"><br><br><br>
+        <button class="new_purchase" onclick="handleNewPurchase()">+</button>
+        <button class="analyse" onclick="analyseSales()">Analyse Sales</button>
+        <table id="myData">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Item</th>
+                    <th>Cost</th>
+                    <th>Payment Method</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for idx in range(cnames|length) %}
+                <tr>
+                    <td id="id {{ idx }}">{{ ids[idx] }}</td>
+                    <td id="cnames {{ idx }}">{{ cnames[idx] }}</td>
+                    <td id="items {{ idx }}">{{ items[idx] }}</td>
+                    <td id="costs {{ idx }}">{{ costs[idx] }}</td>
+                    <td id="pay_meth {{ idx }}">{{ pay_meth[idx] }}</td>
+                    <!-- <td id="delete {{ idx }}"><img src="{{ url_for('static', path='images/delete.png') }}" class="del_icon" alt="Delete Item" height="20px" onclick="handleDelete(this)"/></td> -->
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <div id="nav"></div>
+        <script>
+            function handleDelete(el) {
+                var tmp = el.parentElement.id.split(" ");
+                var idx = tmp[1];
+                var curr_id = document.getElementById('id ' +idx).innerText;
+                var curr_item = document.getElementById('items ' +idx).innerText;
+                var curr_cost = document.getElementById('costs ' +idx).innerText;
+                var curr_pay_meth = document.getElementById('pay_meth ' +idx).innerText;
+                fetch("/delete_purchase", {
+                    method: "POST",
+                    headers: {'Content-Type': "application/json", 'Accept': 'application/json'},
+                    body: JSON.stringify({"curr_id":curr_id, "curr_item":curr_item, "curr_cost":curr_cost, "curr_pay_meth":curr_pay_meth})
+                }).then(response => {
+                    alert(response)
+                })
+            }
+
+            function handleNewPurchase() {
+                window.open("/add_purchase", name="_self");
+            }
+
+            function analyseSales() {
+                window.open("/analyse_sales", name="_self");
+            }
+            $(document).ready(function() {
+                $("#rowsShown").on('change', function() {
+                    var rowsShown = parseInt($("#rowsShown").val());
+                    var rowsTotal = $("#myData tbody tr").length;
+                    var numPages = rowsTotal/rowsShown;
+                    $("#nav").html = "";
+                    for (i = 0; i < numPages; i++) {
+                        var pageNum = i+1;
+                        $("#nav").append('<a href="#" rel="'+i+'">' +pageNum+ ' </a>');
+                    }
+                    $('#myData tbody tr').hide();
+                    $('#myData tbody tr').slice(0, rowsShown).show();
+                    $('#nav a:first').addClass('active');
+                    $('#nav a').bind('click', function(){
+
+                    $('#nav a').removeClass('active');
+                    $(this).addClass('active');
+                    var currPage = $(this).attr('rel');
+                    var startItem = currPage * rowsShown;
+                    var endItem = startItem + rowsShown;
+                    $("#myData tbody tr").hide();
+                    $('#myData tbody tr').slice(startItem, endItem).animate({opacity: 1}, 300).show();
+                    });
+                });
+            });
+        </script>
+    </body>
+</html>
